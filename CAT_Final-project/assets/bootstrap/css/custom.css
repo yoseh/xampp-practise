@@ -1,0 +1,34 @@
+.uon{
+    text-align: right;
+}
+.jane{
+    font-size: large;
+    width: 15vh;
+    height: 8vh;
+
+}
+.navbar-header{
+    padding-right: inherit;
+    font-size: 12vh;
+}
+.section-title{
+    text-align: center;
+}
+.section-subtitle{
+    text-align: center;
+}
+.page-header{
+    text-align: center;
+}
+.a{
+    text-align: center;
+    padding-left: 60vh;
+    width: 100%;
+    height: auto;
+
+}
+.dinner{
+    text-align: center;
+    padding-right: 100vh;
+    position: center;
+}
